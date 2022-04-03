@@ -1,4 +1,4 @@
-# Ethereum-NFT-Project
+# War Times-NFT-Project
 # XRP Network Specifically
 
 <b>Description</b> <br>
